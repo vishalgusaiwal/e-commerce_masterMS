@@ -1,0 +1,18 @@
+{
+  "name": "e-commerce_master-ms",
+  "version": "0.0.0",
+  "description": "e-commerce_masterMS",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}

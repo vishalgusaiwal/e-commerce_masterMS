@@ -31,6 +31,9 @@
     <Content Include="db\config.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="db\Product.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="db\User.js">
       <SubType>Code</SubType>
     </Content>
